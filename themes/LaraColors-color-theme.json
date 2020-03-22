@@ -109,12 +109,6 @@
 	},
 	"tokenColors": [
         {
-            "scope": ["storage.type"],
-            "settings": {
-                "foreground": "#090910",
-            }
-        },
-        {
             "scope": ["comment", "comment.line", "comment.block", "comment.block.documentation"],
             "settings": {
                 "foreground": "#93939e",
