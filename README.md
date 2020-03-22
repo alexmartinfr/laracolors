@@ -5,6 +5,9 @@ For those who love the Laravel documentation color theme!
 ![LaraColors - A VSCode theme inspired by the Laravel Documentation](https://i.imgur.com/zrKL1CC.png)
 
 
+## Get it now!
+You can download the theme on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alexmartinfr.laracolors&ssr=false)
+
 ## Recommended settings
 Font settings for your **settings.json**:
 
