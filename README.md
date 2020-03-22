@@ -15,11 +15,11 @@ Font settings for your **settings.json**:
 ```
 
 You can get the Source Code Pro font here:
-[Source Code Pro font!](https://fonts.google.com/specimen/Source+Code+Pro)
+[Source Code Pro font](https://fonts.google.com/specimen/Source+Code+Pro)
 
 ## Suggested extensions
 
-Works perfectly with the [Customize UI!](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension, which helps providing a clean aesthetics:
+Works perfectly with the [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension, which helps providing a clean aesthetics:
 
 ![LaraColors showcased with the Customize UI VSCode extension](https://i.imgur.com/X55AnZm.png)
 
