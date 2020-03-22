@@ -1,0 +1,22 @@
+{
+    "name": "laracolors",
+    "displayName": "LaraColors",
+    "description": "For those who love the Laravel documentation color theme",
+    "publisher": "alexmartinfr",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "LaraColors",
+                "uiTheme": "vs",
+                "path": "./themes/LaraColors-color-theme.json"
+            }
+        ]
+    }
+}
