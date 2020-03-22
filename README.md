@@ -13,7 +13,7 @@ Font settings for your **settings.json**:
 ```
 
 You can get the Source Code Pro font here:
-[Source Code Pro font]!(https://fonts.google.com/specimen/Source+Code+Pro)
+[Source Code Pro font!](https://fonts.google.com/specimen/Source+Code+Pro)
 
 ## TODO
 Enhance comment detection, via scope ? For now I'm still trying to figure out TextMate grammar.
