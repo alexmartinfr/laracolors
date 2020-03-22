@@ -109,9 +109,9 @@
 	},
 	"tokenColors": [
         {
-            "scope": ["comment", "comment.line", "comment.block", "comment.block.documentation"],
+            "scope": ["storage.type"],
             "settings": {
-                "foreground": "#93939e",
+                "foreground": "#055472",
             }
         },
         {
@@ -188,7 +188,6 @@
                 "variable.other.constant",
                 "meta.property-name",
                 "meta.property-value",
-                "support"
             ],
             "settings": {
                 "foreground": "#090910"
@@ -315,6 +314,18 @@
             "settings": {
                 "foreground": "#d32f2f"
             }
-        }
+        }, 
+        {
+            "scope": ["comment", "comment.line", "comment.block", "comment.block.documentation", "comment.block.documentation.phpdoc", "comment.block.documentation.phpdoc.php"],
+            "settings": {
+                "foreground": "#93939e",
+            }
+        },
+        {
+            "scope": ["keyword.other.phpdoc.php", "support", "support.class"],
+            "settings": {
+                "foreground": "#93939e",
+            }
+        },
 	]
 }
