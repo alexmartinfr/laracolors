@@ -2,8 +2,10 @@
 ## A simple light color theme
 For those who love the Laravel documentation color theme!
 
-![The Laravel Documentation color theme](https://i.imgur.com/ysiF3FU.png)
+![LaraColors - A VSCode theme inspired by the Laravel Documentation](https://i.imgur.com/zrKL1CC.png)
 
+
+## Recommended settings
 Font settings for your **settings.json**:
 
 ```
@@ -14,5 +16,11 @@ Font settings for your **settings.json**:
 
 You can get the Source Code Pro font here:
 [Source Code Pro font!](https://fonts.google.com/specimen/Source+Code+Pro)
+
+## Suggested extensions
+
+Works perfectly with the [Customize UI!](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension, which helps providing a clean aesthetics:
+
+![LaraColors showcased with the Customize UI VSCode extension](https://i.imgur.com/X55AnZm.png)
 
 **Enjoy!**

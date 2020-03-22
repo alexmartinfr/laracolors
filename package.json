@@ -2,8 +2,8 @@
     "name": "laracolors",
     "displayName": "LaraColors",
     "description": "For those who love the Laravel documentation color theme",
-    "publisher": "alexmartinfr",
-    "version": "0.1.3",
+    "publisher": "AlexMartinFR",
+    "version": "0.2.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/AlexMartinFR/laracolors.git"
@@ -18,9 +18,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "LaraColors",
+                "label": "LaraColors Light",
                 "uiTheme": "vs",
-                "path": "./themes/LaraColors-color-theme.json"
+                "path": "./themes/LaraColors-light.json"
             }
         ]
     }

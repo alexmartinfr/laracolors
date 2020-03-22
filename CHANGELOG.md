@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2020-03-22
+### Changed
+- Rewrote the theme from scratch, using only the necessary scopes
+- laracolors-0.2.0.vsix package
+
 ## [0.1.3] - 2020-03-22
 ### Added
 - New phpdoc, comment and support scopes colors
@@ -27,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - "editor.background" color
 - "sideBarSectionHeader.background" color
 
+[0.2.0]: https://github.com/AlexMartinFR/laracolors/releases/tag/v0.2.0
 [0.1.3]: https://github.com/AlexMartinFR/laracolors/releases/tag/v0.1.3
 [0.1.2]: https://github.com/AlexMartinFR/laracolors/releases/tag/v0.1.2
 [0.1.1]: https://github.com/AlexMartinFR/laracolors/releases/tag/v0.1.1
