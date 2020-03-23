@@ -22,7 +22,7 @@ You can get the Source Code Pro font here:
 
 ## Suggested extensions
 
-Works perfectly with the [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension, which helps providing a clean aesthetics:
+Works perfectly with the [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension, which helps providing a clean aesthetic:
 
 ![LaraColors showcased with the Customize UI VSCode extension](https://i.imgur.com/X55AnZm.png)
 
