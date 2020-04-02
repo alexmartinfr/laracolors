@@ -4,21 +4,23 @@
     "colors": {
         // Editor
         "editor.background": "#fbfbfd",
-        "editorLineNumber.foreground": "#93939e",
-        "editorLineNumber.activeForeground": "#ff2d20",
+        "editorLineNumber.foreground": "#d5d0de",
+        "editorLineNumber.activeForeground": "#8338ed",
         "editor.lineHighlightBorder": "#e4e6f2",
         "editorGroupHeader.noTabsBackground": "#f8f8fb",
         "editorGroupHeader.tabsBackground": "#f8f8fb",
         // Tabs
-        "tab.inactiveBackground": "#f8f8fb",
-        "tab.activeBackground": "#e4e6f2",
+        "tab.inactiveBackground": "#fbfbfd",
+        "tab.inactiveForeground": "#93939e",
+        "tab.activeBackground": "#fbfbfd",
+        "tab.activeForeground": "#090910",
         "breadcrumb.background": "#e4e6f2",
         // Scrollbar
         "scrollbarSlider.background": "#d5d0de",
         "scrollbarSlider.hoverBackground": "#b2a6c0",
         "scrollbarSlider.activeBackground": "#8c7ba1",
         // Sidebar
-        "sideBar.background": "#f8f8fb",
+        "sideBar.background": "#fbfbfd",
         "sideBarSectionHeader.background": "#f8f8fb",
         "list.hoverBackground": "#e4e6f2",
         "list.activeSelectionBackground": "#6d5c86",
@@ -26,7 +28,8 @@
         "list.errorForeground": "#ff2d20",
         "list.warningForeground": "#c55f00",
         // Status & activity bars
-        "statusBar.background": "#6d5c86",
+        "statusBar.background": "#f8f8fb",
+        "statusBar.foreground": "#93939e",
         "activityBarBadge.background": "#8338ed",
         // Version control
         "gitDecoration.addedResourceForeground": "#690",
@@ -49,7 +52,10 @@
             // Comments
             "scope": [
                 "comment",
+                "keyword.other.type",
                 "keyword.other.phpdoc",
+                "meta.other.type.phpdoc",
+                "comment.block.documentation.phpdoc",
             ],
             "settings": {
                 "foreground": "#93939e",
@@ -62,6 +68,7 @@
                 "entity.name.type.class",
                 "entity.other.inherited-class",
                 "support.function",
+                "keyword.blade",
             ],
             "settings": {
                 "foreground": "#ca473f",
@@ -74,6 +81,7 @@
                 "storage.type.class",
                 "storage.type.function",
                 "storage.modifier",
+                "entity.other.attribute-name.html",
             ],
             "settings": {
                 "foreground": "#055472",
