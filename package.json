@@ -3,7 +3,7 @@
     "displayName": "LaraColors",
     "description": "For those who love the Laravel documentation color theme",
     "publisher": "AlexMartinFR",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/AlexMartinFR/laracolors.git"

@@ -24,8 +24,8 @@
         "sideBarSectionHeader.background": "#f8f8fb",
         "list.hoverBackground": "#e4e6f2",
         "list.activeSelectionBackground": "#6d5c86",
-        "list.invalidItemForeground": "#ff2d20",
-        "list.errorForeground": "#ff2d20",
+        "list.invalidItemForeground": "#ca473f",
+        "list.errorForeground": "#ca473f",
         "list.warningForeground": "#c55f00",
         // Status & activity bars
         "statusBar.background": "#f8f8fb",
@@ -34,10 +34,10 @@
         // Version control
         "gitDecoration.addedResourceForeground": "#690",
         "gitDecoration.modifiedResourceForeground": "#c55f00",
-        "gitDecoration.deletedResourceForeground": "#ff2d20",
+        "gitDecoration.deletedResourceForeground": "#ca473f",
         "gitDecoration.untrackedResourceForeground": "#690",
         "gitDecoration.ignoredResourceForeground": "#93939e",
-        "gitDecoration.conflictingResourceForeground": "#ff2d20",
+        "gitDecoration.conflictingResourceForeground": "#ca473f",
         "gitDecoration.submoduleResourceForeground": "#690",
     },
     "tokenColors": [

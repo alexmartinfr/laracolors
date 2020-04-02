@@ -17,8 +17,11 @@ Font settings for your **settings.json**:
 "editor.lineHeight" : 25,
 ```
 
-You can get the Source Code Pro font here:
+You can get the *Source Code Pro* font here:
 [Source Code Pro font](https://fonts.google.com/specimen/Source+Code+Pro)
+
+Or get the *Hasklig* font, a cool fork with ligatures support:
+[Hasklig font](https://github.com/i-tu/Hasklig)
 
 ## Suggested extensions
 
@@ -26,7 +29,7 @@ You can get the Source Code Pro font here:
 
 - Works perfectly with the [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension, which helps providing a clean aesthetic:
 
-![LaraColors showcased with the Customize UI VSCode extension](https://i.imgur.com/X55AnZm.png)
+![LaraColors showcased with the Customize UI VSCode extension](https://i.imgur.com/DknZUO2.png)
 
 
 **Enjoy!**
